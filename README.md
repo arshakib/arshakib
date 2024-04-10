@@ -6,7 +6,14 @@
 🎤 Like to share my knowledge </p> 
 
 
-<p align="left"> <a href="https://img.shields.io/badge/Let%20Connect-arshakib-%230A66C2?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fashiqur-rahman-shakib%2F" alt="arshakib" /></a> </p>
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/asiqurrahman.shakib.7) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashiqur-rahman-shakib/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/asiqurrahman.shakib.7/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arshakib428@gmail.com)
 
 ## 🚀 About Me
-I’m a Front End Web developer passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP. 
+👋 Hi, I'm Ashiqur Rahman Shakib, a WordPress theme customization expert delving into the MERN stack. With a passion for refining digital experiences, I specialize in transforming ideas into visually stunning realities.
+
+💼 My expertise lies in fine-tuning WordPress themes to suit unique needs, while also exploring the possibilities of the MERN (MongoDB, Express.js, React.js, Node.js) stack for modern web development solutions.
+
+💻 Each project benefits from my meticulous attention to detail, resulting in polished designs and seamless functionality. Committed to staying abreast of industry trends, I continuously enhance my skills and adapt to new technologies.
+
+🌟 Beyond coding, I'm enthusiastic about emerging technologies and fostering collaborations. Whether you're a developer, designer, or entrepreneur, let's team up and bring your visions to life!
+
