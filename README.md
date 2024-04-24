@@ -1,7 +1,7 @@
 ## Hi, I'm Ashiqur Rahman Shakib <img src="hello.gif" width="28px" alt="hi">
 <div align="center">
-<img src="https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/437060873_969931897876943_1373856939164558579_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeH26RhhYSJH-NGolAkMmF6IWRG_DaNFTB9ZEb8No0VMHyCMN1V-4WG9zg8c9WmmvPAYwQeS6hvHBTPK-kSegjaZ&_nc_ohc=ehODPExm0OMAb5pF6v0&_nc_ht=scontent.fdac31-1.fna&oh=00_AfD9ibg7fGBPA41Ae6tubRIVzXAb6sub4MqQvwFy-2e18A&oe=6627F73E" align="center" style="width: 100%" />
-</div>  
+<img src="https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/437060873_969931897876943_1373856939164558579_n.jpg?stp=dst-jpg_p180x540&_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeH26RhhYSJH-NGolAkMmF6IWRG_DaNFTB9ZEb8No0VMHyCMN1V-4WG9zg8c9WmmvPAYwQeS6hvHBTPK-kSegjaZ&_nc_ohc=odD8_u9WknwAb4F0aSk&_nc_ht=scontent.fdac31-1.fna&oh=00_AfBYWTqcES-pC1fAl9yQI7iuNtazvLexlauUG1jlH2LVgQ&oe=662E8EBE" align="center" style="width: 100%" />
+</div>   
 <br>
 <p>
 👑 I am Web Developer <br> 
