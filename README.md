@@ -15,7 +15,7 @@
 ## 🚀 About Me
 👋 Hi, I'm Ashiqur Rahman Shakib, a WordPress theme customization expert delving into the MERN stack. With a passion for refining digital experiences, I specialize in transforming ideas into visually stunning realities.
 
-<img align="right" alt="Coding" width="400" src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg"/>
+<img align="right" alt="Coding" width="400" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1683700802583/872218de-7763-4505-b028-d6b02add66c7.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm"/>
 💼 My expertise lies in fine-tuning WordPress themes to suit unique needs,<br> while also exploring the possibilities of the MERN <br>(MongoDB, Express.js, React.js, Node.js) stack for modern web development solutions.
 
 💻 Each project benefits from my meticulous attention to detail, resulting in polished designs and seamless functionality. Committed to staying abreast of industry trends, I continuously enhance my skills and adapt to new technologies.
